@@ -36,5 +36,5 @@ ALGORITMS (ПОПРОБУЙ СДЕЛАТЬ):
 6)В чём измеряется время выполнения алгоритма?
 7)Как выражается время выполнения алгоритма?
 
-скачать https://t.me/RuslanSenatorov/326 (здесь все ответы на вопросы) и здесь https://t.me/RuslanSenatorov/429
+скачать https://t.me/RuslanSenatorov/326 (здесь все ответы на вопросы) и здесь(ХАРДКОР, В ИТМО ЮЗАЕМ) https://t.me/RuslanSenatorov/429
 Ответы \algorithms\homework1.py
