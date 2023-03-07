@@ -1,0 +1,40 @@
+06/03/23
+
+
+Python:
+
+Print "Hello, World!" to the console.
+Write a program to calculate the area of a circle with user input.
+Create a program to generate a random number.
+Write a function to reverse a string.
+Build a program to check if a given string is a palindrome.
+Create a program to find the factorial of a number.
+Build a program to find the greatest common divisor of two numbers.
+Write a function to convert Fahrenheit to Celsius.
+Build a program to find the sum of all numbers in a list.
+Write a program to sort a list of integers in ascending order.
+Create a program to check if a given year is a leap year.
+Write a function to calculate the length of a string.
+Build a program to count the number of vowels in a given string.
+Create a program to generate a Fibonacci sequence up to a given number.
+Write a program to find the largest number in a list.
+Build a program to find the second largest number in a list.
+Create a program to reverse the order of words in a given string.
+Write a function to check if a given number is prime.
+Build a program to find the lowest common multiple of two numbers.
+Create a program to convert a decimal number to binary.
+
+код сюда \python\homework1.py
+
+ALGORITMS (ПОПРОБУЙ СДЕЛАТЬ):
+
+1)За какое время работает бинарный поиск? быстрее ли он простого?
+2)Написать в виде нотации BigO логарифмическое и линейное время (просто написать О(здесь что-то)) потом, нарисовать соответствующие графики. Фото сюда \algorithms
+3)К какому классу задач относиться задача о коммивояжере?
+4)Что такое асимптотика?
+5)Почему время выполнения алгоритма не измеряется в секундах?
+6)В чём измеряется время выполнения алгоритма?
+7)Как выражается время выполнения алгоритма?
+
+скачать https://t.me/RuslanSenatorov/326 (здесь все ответы на вопросы) и здесь https://t.me/RuslanSenatorov/429
+Ответы \algorithms\homework1.py
