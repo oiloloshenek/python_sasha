@@ -26,6 +26,14 @@ Create a program to convert a decimal number to binary.
 
 код сюда \python\homework1.ipynb
 
+ВЫПОЛНИТЬ:
+
+pip install notebook
+
+To run the notebook:
+
+jupyter notebook
+
 ALGORITMS (ПОПРОБУЙ СДЕЛАТЬ):
 
 1)За какое время работает бинарный поиск? быстрее ли он простого?
@@ -39,10 +47,4 @@ ALGORITMS (ПОПРОБУЙ СДЕЛАТЬ):
 скачать https://t.me/RuslanSenatorov/326 (здесь все ответы на вопросы) и здесь(ХАРДКОР, В ИТМО ЮЗАЕМ) https://t.me/RuslanSenatorov/429
 Ответы \algorithms\homework1.py
 
-ВЫПОЛНИТЬ:
 
-pip install notebook
-
-To run the notebook:
-
-jupyter notebook
