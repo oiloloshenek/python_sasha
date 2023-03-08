@@ -24,7 +24,7 @@ Write a function to check if a given number is prime.
 Build a program to find the lowest common multiple of two numbers.
 Create a program to convert a decimal number to binary.
 
-код сюда \python\homework1.py
+код сюда \python\homework1.ipynb
 
 ALGORITMS (ПОПРОБУЙ СДЕЛАТЬ):
 
@@ -38,3 +38,11 @@ ALGORITMS (ПОПРОБУЙ СДЕЛАТЬ):
 
 скачать https://t.me/RuslanSenatorov/326 (здесь все ответы на вопросы) и здесь(ХАРДКОР, В ИТМО ЮЗАЕМ) https://t.me/RuslanSenatorov/429
 Ответы \algorithms\homework1.py
+
+ВЫПОЛНИТЬ:
+
+pip install notebook
+
+To run the notebook:
+
+jupyter notebook
