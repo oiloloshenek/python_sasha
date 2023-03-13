@@ -51,6 +51,6 @@ ALGORITMS (ПОПРОБУЙ СДЕЛАТЬ):
 
 Time and space complexity 
 
-
-код сюда \python\homework2.ipynb
+Задание \алгоритмы\homework2.py
+код сюда \алгоритмы\homework2.ipynb
 
