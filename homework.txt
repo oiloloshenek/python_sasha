@@ -47,4 +47,10 @@ ALGORITMS (ПОПРОБУЙ СДЕЛАТЬ):
 скачать https://t.me/RuslanSenatorov/326 (здесь все ответы на вопросы) и здесь(ХАРДКОР, В ИТМО ЮЗАЕМ) https://t.me/RuslanSenatorov/429
 Ответы \algorithms\homework1.py
 
+13/03/23
+
+Time and space complexity 
+
+
+код сюда \python\homework2.ipynb
 
