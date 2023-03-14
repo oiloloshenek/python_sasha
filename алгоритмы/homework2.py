@@ -70,3 +70,12 @@ def fibonacci(n):
         return n
     else:
         return fibonacci(n-1) + fibonacci(n-2)
+
+
+ИЗОБРАЗИТЬ В ВИДЕ БЛОК-СХЕМЫ
+
+if door is closed:
+    if door is locked:
+        unlock_door()
+    open_door()
+advance()
